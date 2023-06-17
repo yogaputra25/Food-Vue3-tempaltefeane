@@ -1,7 +1,7 @@
 # default
 Vue 3 html to Vue 3 with bootstrap
 
-![Alt text](image.png)
+![Alt text](image-1.png)
 
 template from https://github.com/themewagon/feane.git
 ## Project setup
@@ -14,7 +14,7 @@ yarn
 npm install
 
 # pnpm
-npm install
+pnpm install
 ```
 
 ### Compiles and hot-reloads for development
